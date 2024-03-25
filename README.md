@@ -2,7 +2,7 @@
 1. SDK 다운로드 및 설치
 1.1 SDK 다운로드
    - Swift Package Manager 환경에서 "RW-iOS-SPM" 라이브러리를 적용 대상 프로젝트에 추가합니다.
-   - 
+   
 1.2 SDK 세팅
 XCode 프로젝트의 info.plist 파일에 제공받은 App Analytics Key 정보를 추가합니다 info.plist 파일을 open할때 list로 보기 가 아니라 source로 보기를 선탁하신뒤, 제공받으신 Key를 Ctrl+V 하시면 됩니다 serviceNumber를 제공되는 값으로 수정해주세요.
 
